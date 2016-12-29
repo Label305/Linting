@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "test": "tslint test.ts"
+  },
+  "dependencies": {
+    "tslint": "^4.2.0",
+    "tslint-eslint-rules": "^3.2.3",
+    "typescript": "^2.1.4"
+  }
+}
