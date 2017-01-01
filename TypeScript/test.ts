@@ -65,6 +65,21 @@ longArrayNameForIndent
         return aP;
     }, []);
 
+//Shorthand object literal is not required
+const h = {
+    a: a
+};
+
+//But if you use it it should be consistent
+const i = {
+    b: 'foo',
+    a: a
+};
+
+const j = {
+    a
+};
+
 //Function call can be done before definition
 z();
 const z = () => {

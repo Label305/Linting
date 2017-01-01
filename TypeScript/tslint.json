@@ -41,6 +41,7 @@
       "array-simple"
     ],
     "arrow-parens": false,
-    "only-arrow-functions": false
+    "only-arrow-functions": false,
+    "object-literal-shorthand": false
   }
 }
